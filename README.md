@@ -26,11 +26,11 @@ This repository shows the work, submitted as part of the coursework from the [De
 
 ### V2: Adding Augmentation and Increasing the Number of Epochs
 
-### V3: Finetuning ResNet-18
+### V3: Finetuning ResNet-18 (3 + 25 epochs)
 
-### V4: Finetuning ResNet-18 for longer
+### V4: Finetuning ResNet-18 for longer (3 + 50 epochs)
 
-### V5: Finetuning EfficientNet-b2
+### V5: Finetuning EfficientNet-b2 (3 + 25 epochs)
 
 ## Repository Contents
 
