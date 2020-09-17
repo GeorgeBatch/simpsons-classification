@@ -1,6 +1,8 @@
 # Journey to Springfield: Simpsons Classification
 
-This repository shows the work, submitted as part of the coursework from the [Deep Learning School](https://en.dlschool.org/). The coursework was set as an in-class Kaggle competition.
+This repository shows the work, submitted as part of the coursework from the [Deep Learning School](https://en.dlschool.org/). The coursework was set as an [in-class Kaggle competition](https://www.kaggle.com/c/journey-springfield/overview). Full Course for Part 1 of Deep Learning School (Spring 2020) is available at: https://stepik.org/course/65389/syllabus.
+
+**Note,** the course was taught in Russian. Parts of the notebooks in Russian were left from the `simpsons-baseline.ipnb` provided as a starting point by the course organisers. My comments are added in English.
 
 ## Coursework Details
 
