@@ -5,3 +5,7 @@
 *.pyc
 *.swp
 .ipynb_checkpoints/
+
+# exclude all checkpoints files (heavy) except for the README.md files
+weights/*
+!weights/README.md
