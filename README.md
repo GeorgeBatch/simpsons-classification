@@ -8,7 +8,7 @@ This repository shows the work, submitted as part of the coursework from the [De
 
 - **Title:** Journey to Springfield: Simpsons Classification
 - **Type:** Image Classification Coursework
-- **Author:** George Batchkala, george.batchkala@gmail.com
+- **Author:** George Batchkala
 - **Data:** [Journey to Springfield](https://www.kaggle.com/c/journey-springfield)
 - **GitHub repository:** https://github.com/GeorgeBatch/simpsons-classification
 
